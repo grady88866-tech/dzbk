@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          我的站点 <span className="heart">♥️</span>
+          大咖玩家 <span className="heart">♥️</span>
         </p>
         <p className="small">
-          编辑 <code>src/App.jsx</code> 并保存以重新加载。
+          欢迎来到“大咖玩家”，编辑 <code>src/App.jsx</code> 并保存以重新加载。
         </p>
         <p>
           <a
