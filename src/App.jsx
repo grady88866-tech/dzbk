@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          我的站点 <span className="heart">♥️</span>
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          编辑 <code>src/App.jsx</code> 并保存以重新加载。
         </p>
         <p>
           <a
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            访问 React 官网
           </a>
         </p>
       </header>
